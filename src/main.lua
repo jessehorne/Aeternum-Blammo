@@ -11,6 +11,7 @@ love.audio.setVolume(music.volume)
 love.audio.play(music.source)
 
 gunSound = love.audio.newSource("assets/gun.ogg", "static")
+gunSound:setVolume(.1)
 
 local playernum = 1
 

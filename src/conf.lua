@@ -1,5 +1,5 @@
 function love.conf(t)
-    t.title = "Aeternum Blammo"               -- The title of the window the game is in (string)
+    t.title = "Aeternum Blammo - 4/20 Edition"               -- The title of the window the game is in (string)
     t.author = "Josef N Patoprsty" -- The author of the game (string)
     t.identity = nil               -- The name of the save directory (string)
     t.version = "0.9.0"            -- The LÖVE version this game was made for (number)
